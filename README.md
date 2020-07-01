@@ -1,4 +1,6 @@
 For More https://t.me/HB4All_Bot?start=true
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
  
 ### BotFather Commands
 
